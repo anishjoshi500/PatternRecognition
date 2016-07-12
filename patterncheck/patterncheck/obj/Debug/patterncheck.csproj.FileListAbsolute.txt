@@ -1,0 +1,7 @@
+c:\Users\Admin\Documents\Visual Studio 2012\Projects\patterncheck\patterncheck\bin\Debug\patterncheck.dll
+c:\Users\Admin\Documents\Visual Studio 2012\Projects\patterncheck\patterncheck\bin\Debug\patterncheck.pdb
+c:\Users\Admin\Documents\Visual Studio 2012\Projects\patterncheck\patterncheck\obj\Debug\patterncheck.csproj.GenerateResource.Cache
+c:\Users\Admin\Documents\Visual Studio 2012\Projects\patterncheck\patterncheck\obj\Debug\patterncheck.dll
+c:\Users\Admin\Documents\Visual Studio 2012\Projects\patterncheck\patterncheck\obj\Debug\patterncheck.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\patterncheck\patterncheck\obj\Debug\patterncheck.ajpattern.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\patterncheck\patterncheck\obj\Debug\patterncheck.csprojResolveAssemblyReference.cache
